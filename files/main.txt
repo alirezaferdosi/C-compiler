@@ -1,0 +1,8 @@
+int main(){
+    loop(int i=0 & i<100 & i++ ){
+        write('number :',i);
+    }
+
+}
+
+
